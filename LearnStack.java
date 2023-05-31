@@ -13,6 +13,10 @@ public class LearnStack {
         animals.push("Horse ");
         animals.push("Dog");
         System.out.println(animals);
+        System.out.println("Element at the top is : "+animals.peek());
+        animals.pop(); // To delete the element
+        System.out.println("Element at the top after Dog is pop : "+animals.peek());
 
+git 
     }
 }
