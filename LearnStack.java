@@ -17,6 +17,5 @@ public class LearnStack {
         animals.pop(); // To delete the element
         System.out.println("Element at the top after Dog is pop : "+animals.peek());
 
-git 
     }
 }
